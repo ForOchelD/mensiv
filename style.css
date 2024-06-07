@@ -6,7 +6,7 @@ body, html {
 }
 
 body {
-    background-image: url('/desing.jpg');
+    background-image: url('./desing.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
